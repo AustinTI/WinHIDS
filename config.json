@@ -1,1 +1,4 @@
-
+{
+  "paths_to_monitor": ["C:/Windows", "C:/Users/YourUser"],
+  "log_file": "logs/hids_log.txt"
+}
