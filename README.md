@@ -10,7 +10,7 @@ WinHIDS
 
 Required py packages
 <br>
-1. watchdog
+1. watchdog (pip install watchdog)
 <br>
 
 Watchdog Description:
