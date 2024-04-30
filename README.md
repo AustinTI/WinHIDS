@@ -1,10 +1,18 @@
 <b>WinHIDS</b>
 <br>
+├── License
+<br>
+├── Readme
+<br>
 ├── hids.py
 <br>
 ├── config.json
 <br>
+├── winack.py
+<br>
 ├── logs/logs.txt
+<br>
+├── Next Steps
 
 <br><br>
 
